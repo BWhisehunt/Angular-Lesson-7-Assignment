@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Coffee",
+      "description": "Bottomless House Roasted Coffee",
+      "price": 10
+    },
+    {
+      "id": "2",
+      "productName": "Soda",
+      "description": "Choice of any fountain sparkling beverage",
+      "price": 7
+    },
+    {
+      "id": "3",
+      "productName": "Chocolate Milkshake",
+      "description": "Dark chocolate whipped with locally sourced milk and sweetened with sugar",
+      "price": 2.5
+    },
+    {
+      "id": "4",
+      "productName": "Pecan Pie",
+      "description": "A slice of our exquisite Pecan Pie",
+      "price": 2.5
+    },
+    {
+      "id": "5",
+      "productName": "Coffie 2.0",
+      "description": "New and improved coffee",
+      "price": 5
+    },
+    {
+      "id": 6,
+      "productName": "Pumpkin Pie",
+      "description": "Tasty",
+      "price": 10
+    },
+    {
+      "id": 7,
+      "productName": "Fruit",
+      "description": "An Assortment",
+      "price": 3
+    },
+    {
+      "id": 8,
+      "productName": "Veggies",
+      "description": "Crisp and Fresh",
+      "price": 1.5
+    }
+  ]
+}

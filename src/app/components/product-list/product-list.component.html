@@ -1,0 +1,6 @@
+<h1>Menu</h1>
+<h2>
+    <li *ngFor="let product of products">
+      <a [routerLink]="['/product', product.id]">{{ product.productName }} - ${{ product.price }}</a>
+    </li>
+  </h2>

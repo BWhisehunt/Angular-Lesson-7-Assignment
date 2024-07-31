@@ -1,1 +1,82 @@
-/* You can add global styles to this file, and also import other style files */
+h1 {
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f5f5f5;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(15, 202, 239);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
+  color: #cf3131;
+  margin-bottom: 20px;
+}
+
+nav {
+  background-color: #343a40;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #007bff;
+  color: white;
+  border-color: #261b1b;;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #19d7be;
+}
+
+div {
+  color: blue;
+  font-size: 15px;
+  background-color: rgb(157, 211, 238);
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+input {
+  color: rgb(62, 171, 222);
+  font-size: 15px;
+  background-color: white;
+  padding: 0px;
+  margin: 0px 10px;
+  border: 2px solid rgb(121, 119, 119);
+}
